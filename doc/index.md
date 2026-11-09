@@ -13,6 +13,7 @@ tags:
     - api
     - makecode
     - blocks
+    - rib:bit
 ---
 
 ## Overview
